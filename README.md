@@ -13,4 +13,4 @@ This is a basic project that implements a filterable image gallery using HTML, C
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/filterable-image-gallery.git
+   git clone https://github.com/tsinghal451/Filterable-image.git
